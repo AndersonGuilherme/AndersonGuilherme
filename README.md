@@ -1,26 +1,11 @@
-
-# Olá, eu sou o Anderson! 👋
+#Olá, eu sou o Anderson! 👋
 
 ## 🚀 Sobre mim
-Programar é como passar de fase no meu jogo favorito. 
+Sou um desenvolvedor apaixonado pela arte de programar. Para mim, cada linha de código é como passar de fase no meu jogo favorito, onde cada desafio superado traz uma sensação de conquista e aprendizado. Formado em Sistemas de Informação pela Faculdade de Ensino São Luís de Jaboticabal, busco constantemente aprimorar minhas habilidades e contribuir para projetos que façam a diferença.
 
-## 🛠 Habilidades
-- Javascript
-  - NodeJs, Express, AdonisJs 
-- PHP
-- React
-- React Native
-- Banco de Dados
-  - MySql
-  - MariaDB
-  - Postgres
-  - MongoDB 
-- HTML, CSS...
-
-
-## Artigos lidos no daily
-
-<a href="https://app.daily.dev/AndersonG">
-  <img src="https://github.com/AndersonGuilherme/AndersonGuilherme/blob/main/devcard.svg" width="400" alt="Anderson Guilherme's Dev Card"/>
-</a>
-
+## 🪛 Habilidades
+Javascript: NodeJs, Express, AdonisJs, NestJs
+PHP
+Frontend: React, HTML, CSS
+Mobile: React Native
+Banco de Dados: MySql, MariaDB, Postgres, MongoDB
