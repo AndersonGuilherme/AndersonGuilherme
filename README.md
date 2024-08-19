@@ -9,5 +9,3 @@ PHP
 Frontend: React, HTML, CSS
 Mobile: React Native
 Banco de Dados: MySql, MariaDB, Postgres, MongoDB
-
-[![wakatime](https://wakatime.com/badge/user/32cee623-3d50-4e1f-962f-94d8fd5ad8d8/project/018ec41c-e139-4646-b38c-b4d95d77fd18.svg)](https://wakatime.com/badge/user/32cee623-3d50-4e1f-962f-94d8fd5ad8d8/project/018ec41c-e139-4646-b38c-b4d95d77fd18)
